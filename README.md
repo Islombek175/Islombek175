@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Islombek175, I'm 16 years old. I live in Uzbekistan
-- 👀 I’m interested in ... Games, Lerning IT
-- 🌱 I’m currently learning ... JS, Python, HTML, CSS
+- 👀 I’m interested in ... Games, Lerning IT and especially in religion✨
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, NodeJs
 - 📫 How to reach me ... +99 899 149 17 15
 
 
